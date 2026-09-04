@@ -1,4 +1,4 @@
-package com.fitness.userservice.model;
+package com.fitness.userservice.model.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

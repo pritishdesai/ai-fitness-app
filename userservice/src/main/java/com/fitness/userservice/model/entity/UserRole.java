@@ -1,4 +1,4 @@
-package com.fitness.userservice.model;
+package com.fitness.userservice.model.entity;
 
 public enum UserRole {
 
